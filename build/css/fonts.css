@@ -1,0 +1,24 @@
+
+@font-face {
+    font-family: BebasNeueCyrillic;
+    src: url(../fonts/BebasNeueCyrillic.ttf) format("truetype");
+    font-weight: 400;
+     font-display: auto;
+    font-style: normal
+}
+
+@font-face {
+    font-family: BloggerSans;
+    src: url(../fonts/BloggerSans.eot?#iefix) format("embedded-opentype"), url(../fonts/BloggerSans.otf) format("opentype"), url(../fonts/BloggerSans.woff) format("woff"), url(../fonts/BloggerSans.ttf) format("truetype"), url(../fonts/BloggerSans.svg#BloggerSans) format("svg");
+    font-weight: 400;
+     font-display: auto;
+    font-style: normal
+}
+
+@font-face {
+    font-family: BloggerSans-Medium;
+    src: url(../fonts/BloggerSans-Medium.eot?#iefix) format("embedded-opentype"), url(../fonts/BloggerSans-Medium.otf) format("opentype"), url(../fonts/BloggerSans-Medium.woff) format("woff"), url(../fonts/BloggerSans-Medium.ttf) format("truetype"), url(../fonts/BloggerSans-Medium.svg#BloggerSans-Medium) format("svg");
+    font-weight: 400;
+     font-display: auto;
+    font-style: normal
+}
